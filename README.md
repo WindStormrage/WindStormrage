@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+* [Blog](https://windstormrage.github.io/)
+* [SomeInteresting](https://xhydemo.lap.360.cn/#/arcs)
+* email: obkoro1@foxmail.com
+
+
+[![WindStormrage's github stats](https://github-readme-stats.vercel.app/api?username=WindStormrage)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WindStormrage/WindStormrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
