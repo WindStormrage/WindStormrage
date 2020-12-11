@@ -2,7 +2,7 @@
 
 * [Blog](https://windstormrage.github.io/)
 * [SomeInteresting](https://xhydemo.lap.360.cn/#/arcs)
-* email: obkoro1@foxmail.com
+* email: 695729033@qq.com
 
 
 [![WindStormrage's github stats](https://github-readme-stats.vercel.app/api?username=WindStormrage)](https://github.com/anuraghazra/github-readme-stats)
